@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/979751745834074126/993216447536971857/40865857-modified.png" width='128'/>
-</div>
-
 ### :hammer: Languages
 <span>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
