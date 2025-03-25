@@ -1,4 +1,4 @@
 ### :wave: Hi there
-Im Daniil Tenishev, @kewldan
+Im Daniel, aka @kewldan
 
 ![statistics](github-metrics.svg)
