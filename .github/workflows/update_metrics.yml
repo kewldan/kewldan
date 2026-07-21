@@ -39,13 +39,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Languages: most used, with in-depth commit analysis
-          # (recently-used section is disabled: its RecentAnalyzer crashes on
-          #  push events without commit payloads — upstream bug)
+          # Languages: most used
+          # (indepth and recently-used are disabled: both analyzers crash —
+          #  V8 OOM on huge diffs and TypeError on empty push payloads)
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
