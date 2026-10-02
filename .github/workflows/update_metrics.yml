@@ -50,19 +50,9 @@ jobs:
           plugin_languages_skipped: kewldan/SummerTimer
           plugin_languages_threshold: 0%
 
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          # Coding habits and achievements are disabled: both plugins crash upstream
+          #  (habits — undefined commit author in push events; achievements —
+          #  query still uses the removed Projects (classic) API, lowlighter/metrics#1706)
 
           # Lines of code added/removed
           plugin_lines: yes
