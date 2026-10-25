@@ -30,6 +30,7 @@
 | Project | Description |
 |---------|-------------|
 | [🛡️ LarpGuard](https://github.com/kewldan/LarpGuard) | Cloudflare but self-hosted |
+| [📱 Tether](https://github.com/kewldan/tether) | ADB GUI desktop app |
 | [🧩 LogicalSystemRemaster](https://github.com/kewldan/LogicalSystemRemaster) | Turing-complete 2D game for building logic circuits from blocks |
 | [🌋 VulkanEngine](https://github.com/kewldan/VulkanEngine) | My own Vulkan rendering engine (WIP) |
 | [⛏ MinecraftServerCore](https://github.com/kewldan/MinecraftServerCore) | Early attempt at a Minecraft server in C++, unfinished |
