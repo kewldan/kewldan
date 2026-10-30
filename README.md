@@ -30,6 +30,7 @@
 | Project | Description |
 |---------|-------------|
 | [🛡️ LarpGuard](https://github.com/kewldan/LarpGuard) | Cloudflare but self-hosted |
+| [🪐 Sector](https://github.com/kewldan/sector) | A fast, beautiful disk analyzer and cleaner, built natively for macOS |
 | [📱 Tether](https://github.com/kewldan/tether) | ADB GUI desktop app |
 | [🧩 LogicalSystemRemaster](https://github.com/kewldan/LogicalSystemRemaster) | Turing-complete 2D game for building logic circuits from blocks |
 | [🌋 VulkanEngine](https://github.com/kewldan/VulkanEngine) | My own Vulkan rendering engine (WIP) |
