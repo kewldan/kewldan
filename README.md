@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/kewldan.ru-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://kewldan.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kewldan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kewldan/)
-[![Signed commits](https://img.shields.io/badge/Signed_commits-ED25519%20SHA256%3AKWlDn4aDplC2%2BGF2Rvswlxhix85r5Fz%2FeIQ2sWJAMI0-2EA043?style=flat&logo=github&logoColor=white)](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
+[![Signed commits](https://img.shields.io/badge/Signed_commits-ED25519%20SHA256%3AKewLdAnP2lTK%2BDNRYI1e7%2Boe7Vwabjg9LKKlGL3mf2U-2EA043?style=flat&logo=github&logoColor=white)](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
 
 ## 🛠 Tech stack
 
