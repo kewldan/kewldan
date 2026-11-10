@@ -32,7 +32,9 @@
 |---------|-------------|
 | [🛡️ LarpGuard](https://github.com/kewldan/LarpGuard) | Cloudflare but self-hosted |
 | [🪐 Sector](https://github.com/kewldan/sector) | A fast, beautiful disk analyzer and cleaner, built natively for macOS |
+| [🔬 Hexa](https://github.com/kewldan/hexa) | Cross-platform hex editor for files of any size, plus disks, process memory and the network (Tauri 2 + Rust) |
 | [📱 Tether](https://github.com/kewldan/tether) | ADB GUI desktop app |
+| [🔑 vanity-ssh](https://github.com/kewldan/vanity-ssh) | Finds an Ed25519 SSH key with a vanity fingerprint on the Mac's GPU (Swift + Metal) — that's where `KewLdAn` in the badge above comes from |
 | [🧩 LogicalSystemRemaster](https://github.com/kewldan/LogicalSystemRemaster) | Turing-complete 2D game for building logic circuits from blocks |
 | [🌋 VulkanEngine](https://github.com/kewldan/VulkanEngine) | My own Vulkan rendering engine (WIP) |
 | [⛏ MinecraftServerCore](https://github.com/kewldan/MinecraftServerCore) | Early attempt at a Minecraft server in C++, unfinished |
@@ -43,6 +45,7 @@
 | Project | Description |
 |---------|-------------|
 | [📚 m3105](https://github.com/kewldan/m3105) | Website for my ITMO group M3105 — deadlines, labs, lecture notes, quizzes — [m3105.ru](https://m3105.ru) |
+| [🧐 Nitpick](https://github.com/kewldan/nitpick) | Code review for mentors: paste code or drop a `.zip`, comment line by line, share one short link, no accounts — [nitpick.m3105.ru](https://nitpick.m3105.ru) |
 | [🔢 algs-lab1](https://github.com/kewldan/algs-lab1) | Starter kit for the Algorithms & Data Structures lab 1 (sorting): solution templates, tests and `make` commands |
 | [🔢 algs-lab2](https://github.com/kewldan/algs-lab2) | Starter kit for the lab 2 |
 | [🐹 go-itmo](https://github.com/kewldan/go-itmo) | Unofficial Go library for my.itmo, BARS and ITMO.ID |
