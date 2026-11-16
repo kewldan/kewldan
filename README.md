@@ -40,6 +40,37 @@
 | [⛏ MinecraftServerCore](https://github.com/kewldan/MinecraftServerCore) | Early attempt at a Minecraft server in C++, unfinished |
 | [🎵 SteelSeriesDisplay](https://github.com/kewldan/SteelSeriesDisplay) | Shows currently playing music on SteelSeries OLED displays |
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/kewldan/LarpGuard"><img src="assets/larpguard.webp" alt="LarpGuard console: live verdicts chart, top hosts and blocked reasons"></a>
+      <br><b>🛡️ LarpGuard</b> — live traffic console
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/kewldan/sector"><img src="assets/sector.webp" alt="Sector disk map: sunburst of a home folder"></a>
+      <br><b>🪐 Sector</b> — disk map
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/kewldan/hexa"><img src="assets/hexa.webp" alt="Hexa: side-by-side binary diff"></a>
+      <br><b>🔬 Hexa</b> — binary diff
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/kewldan/tether"><img src="assets/tether.webp" alt="Tether: Android screen mirroring with stream settings"></a>
+      <br><b>📱 Tether</b> — screen mirroring
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/kewldan/nitpick"><img src="assets/nitpick.webp" alt="Nitpick: mentee view of a code review with progress and checklist" width="50%"></a>
+      <br><b>🧐 Nitpick</b> — what the mentee sees
+    </td>
+  </tr>
+</table>
+
 ## 🎓 Education projects
 
 | Project | Description |
