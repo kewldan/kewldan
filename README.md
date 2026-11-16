@@ -6,6 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kewldan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kewldan/)
 [![Signed commits](https://img.shields.io/badge/Signed_commits-ED25519%20SHA256%3AKewLdAnP2lTK%2BDNRYI1e7%2Boe7Vwabjg9LKKlGL3mf2U-2EA043?style=flat&logo=github&logoColor=white)](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
+[![Баллы на m3105.ru](https://m3105.ru/api/badges/shields?isu=561445&name=0&total=0)](https://m3105.ru/grades)
 
 ## 🛠 Tech stack
 
