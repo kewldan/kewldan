@@ -46,8 +46,6 @@
 |---------|-------------|
 | [📚 m3105](https://github.com/kewldan/m3105) | Website for my ITMO group M3105 — deadlines, labs, lecture notes, quizzes — [m3105.ru](https://m3105.ru) |
 | [🧐 Nitpick](https://github.com/kewldan/nitpick) | Code review for mentors: paste code or drop a `.zip`, comment line by line, share one short link, no accounts — [nitpick.m3105.ru](https://nitpick.m3105.ru) |
-| [🔢 algs-lab1](https://github.com/kewldan/algs-lab1) | Starter kit for the Algorithms & Data Structures lab 1 (sorting): solution templates, tests and `make` commands |
-| [🔢 algs-lab2](https://github.com/kewldan/algs-lab2) | Starter kit for the lab 2 |
 | [🐹 go-itmo](https://github.com/kewldan/go-itmo) | Unofficial Go library for my.itmo, BARS and ITMO.ID |
 | [🎓 itmo-bot](https://github.com/kewldan/itmo-bot) | Bot that tracks ITMO admission lists with an acceptance-probability forecast |
 
